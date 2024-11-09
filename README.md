@@ -2,7 +2,7 @@
 
 Designed to elevate the digital experience, this application highlights my proficiency in HTML, CSS, and JavaScript, showcasing a stunning interface that truly captivates users. ✨
 
-🔗 Live project here: 
+🔗 Live project here: https://aadityasingh14404.github.io/StopWatch/
 
 This journey has been nothing short of transformative! I’ve unlocked invaluable insights into web development best practices, user interface design, and efficient coding techniques. I’m passionate about crafting impactful solutions that resonate deeply with users. 💻
 
